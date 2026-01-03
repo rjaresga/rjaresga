@@ -1,59 +1,88 @@
-# Hey, I'm RJ 👋
+<div align="center">
+  
+  # Hey, I'm RJ 👋
 
-Full-stack & mobile dev • Part-time Instructor @ CSU  
-I build cross-platform experiences, automate workflows, and ship products powered by AI.  
-Web, mobile, embedded — if it runs code, I’ll make it work. ⚡
+  ### Full-stack & Mobile Dev • Part-time Instructor @ CSU
 
-Explore my **[portfolio website](https://rjaresga.vercel.app/)** to see my work and projects.
+  <p>
+    I build cross-platform experiences, automate workflows, and ship products powered by AI.<br>
+    Bridging the gap between <b>academic theory</b> and <b>production-grade code</b>.
+  </p>
 
-## ⚡ Tech Arsenal  
+  <p>
+    <a href="https://rjaresga.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    </a>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
 
-### 🖥️ Web & Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+</div>
 
-### 📱 Mobile  
+---
+
+## ⚡ Tech Arsenal
+
+I specialize in **Hybrid Mobile** development and robust **Web Systems**.
+
+### 📱 Mobile & Hybrid
+*The Ionic Stack: Write once, run everywhere.*
+
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### ⚙️ Backend & Other Tech  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+### 🖥️ Modern Frontend
+*React Ecosystem & UI Library.*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
+### ⚙️ Backend & Systems
+*Scalable logic using PHP/Laravel and Modern BaaS.*
 
-## 🔥 Featured Projects  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-### 🎾 **Tournament Bracketing App**  
-Mobile dashboard + Firebase + AI handwriting recognition (soon).  
-**Live:** _coming soon_  
-**Repo:** _coming soon_
+### 🛠️ Embedded & Scripting
+*Hardware integration and automation.*
 
----
-
-### 🎓 **Alumni CMS**  
-Next.js + Supabase + Tailwind + ShadCN UI.  
-**Live:** _coming soon_  
-**Repo:** _coming soon_
-
----
-
-### 🌐 **Portfolio Website**  
-Modern, clean dev portfolio with animations & dark mode.  
-**Live:** https://rjaresga.vercel.app/  
-**Repo:** _coming soon_
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🔥 Featured Projects
+
+### 🎾 **Tournament Bracketing App**
+*Mobile Dashboard & Management System*
+> A cross-platform mobile application for managing tournament brackets, featuring real-time updates and AI integration.
+- **Stack:** Ionic, Angular, Firebase, Capacitor
+- **Status:** 🚧 *In Development*
+
+### 🎓 **Alumni CMS**
+*Content Management System*
+> A centralized platform for alumni tracking and engagement.
+- **Stack:** Next.js, Supabase, Tailwind, ShadCN UI
+- **Status:** 🚧 *In Development*
+
+### 🌐 **Portfolio Website**
+*Personal Brand Identity*
+> A modern, responsive developer portfolio featuring dark mode and smooth animations.
+- **Stack:** React, Vercel
+- **Live:** [rjaresga.vercel.app](https://rjaresga.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -65,11 +94,9 @@ Modern, clean dev portfolio with animations & dark mode.
 
 ---
 
-
-## 🤝 Connect  
-**Facebook:** _your link_  
-**LinkedIn:** _your link_  
-**Portfolio:** https://rjaresga.vercel.app/
+<div align="center">
 
 > Building cool things one repo at a time.  
 > Fueled by caffeine, consistency, and AI firepower. ⚡
+
+</div>
